@@ -1,0 +1,23 @@
+Monday 9:00-10:00 Physics Mr.John
+Monday 10:00-11:00 English Ms.Smith
+Monday 2:00-3:00 Math Dr.Bob
+Monday 3:00-4:00 VAC Ms.Teena
+Tuesday 9:00-10:00 Chemistry Dr.Lee
+Tuesday 10:00-11:00 Physics Mr. John
+Tuesday 2:00-3:00 VAC Ms.Teena
+Tuesday 3:00-4:00 VAC Ms.Teena
+Wednesday 9:00-10:00 Chemistry Dr.Lee
+Wednesday 10:00-11:00 Physics Mr. John
+Wednesday 2:00-3:00 VAC Ms.Teena
+Wednesday 3:00-4:00 Chemistry Dr.Lee
+Thursday 9:00-10:00 VAC Ms.Teena
+Thursday 10:00-11:00 Math Dr.Bob
+Thursday 2:00-3:00 Math Dr.Bob
+Thursday 3:00-4:00 English Ms.Smith
+Friday 9:00-10:00 Chemistry Dr.Lee
+Friday 10:00-11:00 Physics Mr. John
+Friday 2:00-3:00 Math Dr.Bob
+Friday 3:00-4:00 VAC Ms.Teena
+
+
+

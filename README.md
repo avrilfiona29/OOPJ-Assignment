@@ -103,6 +103,4 @@ This README provides a complete overview of the Timetable Management System proj
 
 ---
 
-Let me know if you need any more adjustments or additional details in the README!
-
 We have taken reference from ChatGPT and also taken help from our classmate Abhishek Kini. 

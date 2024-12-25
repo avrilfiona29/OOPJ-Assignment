@@ -109,4 +109,6 @@ We have taken reference from ChatGPT and also taken help from our classmate Abhi
 ---
 Linkedin Profiles:
 https://www.linkedin.com/in/avril-fiona-8410792b3/
+https://www.linkedin.com/in/gagana-nayak-74225733b/
+https://www.linkedin.com/in/deeksha-k-ab4a1033a
 

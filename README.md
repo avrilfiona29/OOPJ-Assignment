@@ -105,3 +105,8 @@ This README provides a complete overview of the Timetable Management System proj
 ---
 
 We have taken reference from ChatGPT and also taken help from our classmate Abhishek Kini. 
+
+---
+Linkedin Profiles:
+https://www.linkedin.com/in/avril-fiona-8410792b3/
+
